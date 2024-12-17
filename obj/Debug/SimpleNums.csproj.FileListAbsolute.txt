@@ -1,0 +1,10 @@
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\bin\Debug\SimpleNums.exe.config
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\bin\Debug\SimpleNums.exe
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\bin\Debug\SimpleNums.pdb
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\obj\Debug\SimpleNums.csproj.AssemblyReference.cache
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\obj\Debug\SimpleNums.csproj.CoreCompileInputs.cache
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\obj\Debug\SimpleNums.exe
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\obj\Debug\SimpleNums.pdb
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1092023\Desktop\C#\Эксперименты\SimpleNums\SimpleNums\obj\Debug\SimpleNums.csproj.Up2Date
